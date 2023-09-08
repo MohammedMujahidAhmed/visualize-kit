@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+@import url('./Components/styles/button.css');
+
+@import url('./Components/styles/dropdown.css');
+
+@import url('./Components/styles/slider.css');
+
+@import url('./Components/styles/toggle.css');
+
+@import url('./Components/styles/visualizer.css');
